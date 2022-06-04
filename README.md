@@ -1,3 +1,3 @@
 # C_learn
 
-A simple project to understand better C language
+A simple project to better understand C language
