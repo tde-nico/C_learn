@@ -1,7 +1,11 @@
 # C_learn
 
 <!--
+#field
+Learning
+
 #groups
+Courses
 
 #languages
 C
